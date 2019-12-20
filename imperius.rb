@@ -1,4 +1,4 @@
-class imperius < Formula
+class Imperius < Formula
   desc "API command line tester"
   homepage "https://github.com/p4tin/imperius"
   url "https://github.com/p4tin/imperius/releases/download/v0.1.0/imperius_0.1.0_Darwin_x86_64.tar.gz"
