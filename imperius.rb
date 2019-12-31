@@ -1,9 +1,9 @@
 class Imperius < Formula
   desc "API command line tester"
   homepage "https://github.com/p4tin/imperius"
-  url "https://github.com/p4tin/imperius/releases/download/v0.1.1/imperius_0.1.1_Darwin_x86_64.tar.gz"
-  sha256 "1279d4090695e73dbda5393c23dcd41b2ed27d18c99b9275a5ecace493f58e9e"
-  version "v0.1.1"
+  url "https://github.com/p4tin/imperius/releases/download/v0.2.0/imperius_0.2.0_Darwin_x86_64.tar.gz"
+  sha256 "02625424a2320b61a32683e52b1f260a3fa14e3e63da2b211d804d1fc6e647f0"
+  version "v0.2.0"
 
   # depends_on "cmake" => :build
 
